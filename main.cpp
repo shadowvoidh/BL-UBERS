@@ -1,5 +1,6 @@
 #include "Match.hpp"
 
+
 int main()
 {
     sf::RenderWindow window(
@@ -24,6 +25,6 @@ int main()
 
         window.display();
     }
-
+    
     return 0;
 }
