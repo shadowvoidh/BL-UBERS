@@ -1,3 +1,4 @@
+//C++ Feito por: @shadow_voidh
 #include "src/Game.hpp"
 
 int main()
@@ -7,3 +8,5 @@ int main()
 
     return 0;
 }
+
+//@shadow_voidh
